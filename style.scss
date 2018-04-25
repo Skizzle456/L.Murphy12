@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #728782;
+	background: $gray;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -29,6 +29,15 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+
+//new code starts here
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+//new code finishes here
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
