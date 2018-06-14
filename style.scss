@@ -21,6 +21,10 @@ body {
 	background: url("http://www.onlygfx.com/wp-content/uploads/2017/03/blue-burst-abstract-bg.png");
   font: 18px/1.4 $helvetica;
   color: $black;
+
+p.one {
+    border-style: solid;
+    border-color: red;
 }
 
 .container {
