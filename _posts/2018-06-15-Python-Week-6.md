@@ -54,7 +54,7 @@ published: true
   </tr>
   <tr>
     <td>Next time I will remember to concentrate and read the question which will lead to more success for me in the future on codecademy which can lead to me earning more badges in the future.
-</td>
+My Badges.</td>
   </tr>
 </table>
 
