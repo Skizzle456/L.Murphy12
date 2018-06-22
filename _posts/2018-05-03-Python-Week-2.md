@@ -56,5 +56,5 @@ published: true
     <td>Next time I will try my best to stay healthy enough to be in school and i will also try and become prepared for whenever I'm ill so i can ask my peers or teacher for the work that needs to be caught up on.</td>
   </tr>
 </table>
-
+<img src = "/images/Screenshot 2018-06-22 at 13.31.38.png">
 
