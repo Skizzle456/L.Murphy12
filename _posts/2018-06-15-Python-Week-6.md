@@ -57,5 +57,6 @@ published: true
 My Badges.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-22 at 13.41.17.png">
 
 
