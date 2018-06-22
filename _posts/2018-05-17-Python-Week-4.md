@@ -56,5 +56,6 @@ published: true
     <td>Next time I will make sure I keep full focus on the work i'm doing and I will not get distracted during the lesson so I can make sure I reach my full potential.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-22 at 13.47.55.png">
 
 
