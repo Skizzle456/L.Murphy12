@@ -56,5 +56,6 @@ published: true
     <td>Next time I will not change anything however I will continue doing what I’m doing in class as I am producing a great work ethic at the moment and also showing a great attitude towards what I’m doing.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-22 at 13.45.01.png">
 
 
