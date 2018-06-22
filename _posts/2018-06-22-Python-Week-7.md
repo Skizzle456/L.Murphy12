@@ -56,6 +56,6 @@ published: true
     <td>Next time I will leave non class work for homework so I can focus on the class work and hopefully earn more badges in the lesson if I’m doing the proper work. This will improve my learning as it is a strategy to learn more and get more badges which enhances my knowledge </td>
   </tr>
 </table>
-<img scr = "/images/Screenshot 2018-06-22 at 13.33.45.png">
+<img src = "/images/Screenshot 2018-06-22 at 13.33.45.png">
 
 
