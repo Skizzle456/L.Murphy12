@@ -57,5 +57,5 @@ published: true
     <td>Next time I will continue to do what I have done which will lead me to keep earning badge and keeping up or even going faster than some of the class. I will improve my learning with consistency to keep up what I'm doing to earn badges and learn a lot.</td>
   </tr>
 </table>
-
+<img src "/images/Screenshot 2018-06-29 at 13.47.53.png">
 
