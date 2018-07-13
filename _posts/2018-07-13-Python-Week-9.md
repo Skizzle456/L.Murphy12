@@ -56,5 +56,5 @@ published: true
     <td>Next time I will fully concentrate as I had a big task at hand in which I could have got it finished with better concentration. My learning will be improved if I listen to my peers and the advice they are giving me.</td>
   </tr>
 </table>
-
+<img src = "/images/Screenshot 2018-07-13 at 13.49.07.png">
 
